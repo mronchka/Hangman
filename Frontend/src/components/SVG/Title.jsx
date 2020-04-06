@@ -27,7 +27,7 @@ class Title extends Component {
                 </text>
                 <text id={this.props.componentId}>
                     <tspan x="70" y="35" style={{ fill: color1, fontFamily: '"Anton", sans-serif', fontSize: 35 }} textAnchor="middle" >
-                        HANGMAN
+                        HANGMAN... bootleg version
                     </tspan>
 
                 </text>

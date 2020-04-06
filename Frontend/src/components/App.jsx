@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { createConnection, bootServer, serverError } from '../actions/index';
+import { createConnection, bootServer, serverError } from '../actions';
 import { Router, Route } from 'react-router-dom';
 import history from '../history';
 import JoinPage from './Join/Page';

@@ -4,7 +4,7 @@ import { letterListener } from '../../../actions';
 import Waiting from './Waiting';
 import Hangman from './Hangman';
 import GameInit from './GameInit';
-import { newMasterListener } from '../../../actions/index';
+import { newMasterListener } from '../../../actions';
 
 
 class Screen extends Component {

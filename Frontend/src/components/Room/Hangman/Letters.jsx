@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { letterSelected, letterListener } from '../../../actions/index';
+import { letterSelected, letterListener } from '../../../actions';
 import { hangmanAnimation as animate } from '../../../animations';
 
 class Letters extends Component {

@@ -4,7 +4,7 @@ import Chat from './Chat/Chat';
 import UserList from './Chat/UserList';
 import history from '../../history';
 import Screen from './Hangman/Screen';
-import { newMasterListener, wordSetListener } from '../../actions/index';
+import { newMasterListener, wordSetListener } from '../../actions';
 import { hangmanAnimation as animate } from '../../animations';
 const toggleMenu = () => {
     document.querySelector('.navbar-burger').classList.toggle('is-active')
