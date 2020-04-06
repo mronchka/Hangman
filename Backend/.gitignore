@@ -1,0 +1,5 @@
+/node_modules
+.env
+writefile.txt
+utility.js
+stats.js

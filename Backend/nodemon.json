@@ -1,0 +1,7 @@
+{
+  "env": {
+    "OX_APP_ID": "c0335bea",
+    "OX_APP_KEY": "feb3bf9efe1c23a826201b4979d9515f",
+    "CLIENT": "http://localhost:3000"
+  }
+}
