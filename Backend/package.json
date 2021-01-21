@@ -16,6 +16,6 @@
     "express": "^4.16.4",
     "nodemon": "^2.0.2",
     "oxford-dictionary-api": "^1.0.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
